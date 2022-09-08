@@ -58,7 +58,7 @@ Also create a list so it could consist of all off the coffee drinks.
 Foreach over the list and print out the price and strength for every object. 
 
 ### 7 Add a discount property 
-The shop owner now wants a way to give discount then people order a coffee.  
+The shop owner now wants a way to give discount when people order a coffee.  
 
 Implement a property discount in the coffee class.  
 
